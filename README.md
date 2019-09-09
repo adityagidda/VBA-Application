@@ -1,0 +1,2 @@
+# VBA-Application
+Created a VBA application to analyze school data of 197 school districts in Colorado state, taken from Colorado Dept. of Education(CDE) website. Performed Exploratory Data Analysis and imputed missing values in the data using VBA. Performed multivariate analysis on how teacher’s salary is affected by district, setting &amp; experience. Created buttons in excel sheet for the user to perform various analysis. Coded in a way to add n number of rows to the existing data and perform all the functionalities effectively. 
